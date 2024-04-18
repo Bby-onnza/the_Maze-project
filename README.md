@@ -43,9 +43,14 @@ To download the zip file, click on the button that says Code:
 ![Screenshot (1)](https://github.com/Bby-onnza/the_Maze-project/assets/111060448/bfc1e41e-6d30-40e5-89f0-8d2f2c266709)
 
 then click on download zip:
+![Screenshot (2)](https://github.com/Bby-onnza/the_Maze-project/assets/111060448/84028358-549a-4a54-93bf-dc0801933d8e)
 
 After you've downloaded the game folder on your computer using any of the methods above, simply open the folder and click on the executable (application) maze file to launch
 
-ENJOY THE GAME
+![Screenshot (3)](https://github.com/Bby-onnza/the_Maze-project/assets/111060448/3dd118e2-f258-4299-8767-ae71360b1f0e)
+
+ENJOY THE GAME!
+![Screenshot (4)](https://github.com/Bby-onnza/the_Maze-project/assets/111060448/5c0a6764-c072-4205-ad86-1c3c37f6aae2)
+
 
 
