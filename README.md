@@ -40,3 +40,12 @@ You could clone this repo to your computer.
 
 To download the zip file, click on the button that says Code:
 
+![Screenshot (1)](https://github.com/Bby-onnza/the_Maze-project/assets/111060448/bfc1e41e-6d30-40e5-89f0-8d2f2c266709)
+
+then click on download zip:
+
+After you've downloaded the game folder on your computer using any of the methods above, simply open the folder and click on the executable (application) maze file to launch
+
+ENJOY THE GAME
+
+
