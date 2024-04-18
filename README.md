@@ -38,5 +38,6 @@ First, you want to download the folder for the game on your compuuter. This can 
 You can either choose to download the zip file for this repo and unzip it on your computer, or
 You could clone this repo to your computer.
 
-To download the zip file, click on the button that says Code:
+To download the zip file, click on the green button that says Code:
+
 
