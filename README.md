@@ -1,5 +1,7 @@
-ADVENTURE TIME
+The maze project 
+@Author Onele Panda (pandaonele0@gmail.com)
 
+ADVENTURE TIME
 
 Introduction 👀
 
@@ -48,10 +50,14 @@ then click on download zip:
 
 After you've downloaded the game folder on your computer using any of the methods above, simply open the folder and click on the executable (application) maze file to launch
 
-![Screenshot (3)](https://github.com/Bby-onnza/the_Maze-project/assets/111060448/3dd118e2-f258-4299-8767-ae71360b1f0e)
+![Screhttps://www.linkedin.com/public-profile/settingsenshot (3)](https://github.com/Bby-onnza/the_Maze-project/assets/111060448/3dd118e2-f258-4299-8767-ae71360b1f0e)
 
 ENJOY THE GAME!
 ![Screenshot (4)](https://github.com/Bby-onnza/the_Maze-project/assets/111060448/5c0a6764-c072-4205-ad86-1c3c37f6aae2)
 
+FOR MORE INFORMATION YOU CAN REACH ME ON:
+twitter
+https://twitter.com/onnza23?s=09
 
-
+linkin 
+https://www.linkedin.com/public-profile/settings
