@@ -60,4 +60,4 @@ twitter
 https://twitter.com/onnza23?s=09
 
 linkin 
-https://www.linkedin.com/public-profile/settings
+https://www.linkedin.com/in/onele-panda-ab80bb271
